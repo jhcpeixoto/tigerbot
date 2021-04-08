@@ -1,4 +1,4 @@
-# Pollmaster V 2.5
+# TIGERBOT V 1.1
 
 ## Overview
 
